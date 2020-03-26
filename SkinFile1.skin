@@ -1,0 +1,1 @@
+﻿<asp:Button SkinID="b1" runat="server" Text="Button" BackColor="Red" />
